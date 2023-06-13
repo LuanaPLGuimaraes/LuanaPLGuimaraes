@@ -1,11 +1,6 @@
-# 👋 Oie, meu nome é Luana e seja bem-vindo ao meu perfil no Github!
+# Seja bem-vindo ao meu perfil no Github!
+## 👋 Oie, meu nome é Luana:
 
-
- 💻 Sou estudante de engenharia mectrônica no [Insper](https://www.insper.edu.br/)
- 👀 Currently looking to improve my programming skills
- 💬 Languages: Portuguese 🇧🇷, English 🇬🇧
- ⚡ Fun facts: I love taking pictures 📷, I have 2 dogs 🐶 and 2 brothers 👪
- 
  </br>
 </br>
 <div display="inline-block">
