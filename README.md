@@ -4,7 +4,7 @@
  </br>
 </br>
 <div display="inline-block">
- <p align="left">💻 Sou estudante de engenharia mectrônica no<a href="https://www.insper.edu.br/">Insper</a>;</p>
+ <p align="left">💻 Sou estudante de engenharia mectrônica no <a href="https://www.insper.edu.br/">Insper</a>;</p>
  <p align="left">👀 Estou buscando aprender e melhorar minhas habilidades em programação;</p>
  <p align="left">💬 Falo Portugues 🇧🇷, Inglês 🇬🇧 e (um pouquinho) de Francês 🇫🇷;</p>
  <p align="left">📷 Sou apaixonada em tirar fotos, tomar café, passar tempo em família.</p>
